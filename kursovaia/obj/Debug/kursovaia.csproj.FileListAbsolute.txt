@@ -1,0 +1,48 @@
+C:\Users\neyman\source\repos\kursovaia\kursovaia\bin\Debug\kursovaia.exe.config
+C:\Users\neyman\source\repos\kursovaia\kursovaia\bin\Debug\kursovaia.exe
+C:\Users\neyman\source\repos\kursovaia\kursovaia\bin\Debug\kursovaia.pdb
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.AssemblyReference.cache
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.Login.resources
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.Properties.Resources.resources
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.GenerateResource.cache
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.CoreCompileInputs.cache
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.exe
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.pdb
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.AdminForm.resources
+C:\Users\neyman\source\repos\kursovaia\kursovaia\obj\Debug\kursovaia.ClientForm.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\bin\Debug\kursovaia.exe.config
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\bin\Debug\kursovaia.exe
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\bin\Debug\kursovaia.pdb
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.AssemblyReference.cache
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.AdminForm.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.ClientForm.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.Login.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.Properties.Resources.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.RegistrationForm.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.GenerateResource.cache
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.CoreCompileInputs.cache
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.exe
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.pdb
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.AccountForm.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\bin\Debug\Guna.UI2.dll
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.Up2Date
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.UsersControls.UC_UserData.resources
+C:\Users\polin\Downloads\Telegram Desktop\kursovaia\kursovaia\kursovaia\obj\Debug\kursovaia.UsersControls.UC_ReaderCard.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\bin\Debug\kursovaia.exe.config
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\bin\Debug\kursovaia.exe
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\bin\Debug\kursovaia.pdb
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\bin\Debug\Guna.UI2.dll
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.AssemblyReference.cache
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.AccountForm.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.AdminForm.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.ClientForm.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.Login.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.Properties.Resources.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.RegistrationForm.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.UsersControls.UC_ReaderCard.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.UsersControls.UC_UserData.resources
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.GenerateResource.cache
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.CoreCompileInputs.cache
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.csproj.CopyComplete
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.exe
+C:\Users\neyman\Downloads\22\kursovaia\kursovaia\obj\Debug\kursovaia.pdb
